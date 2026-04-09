@@ -1,0 +1,16 @@
+name: safe_back_navigation_wrapper_example
+publish_to: none
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  safe_back_navigation_wrapper:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

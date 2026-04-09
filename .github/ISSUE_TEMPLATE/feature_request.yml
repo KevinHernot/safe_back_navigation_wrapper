@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest an improvement for the package.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: Describe the feature and the problem it solves.
+    validations:
+      required: true
