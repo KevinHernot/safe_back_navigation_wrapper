@@ -6,7 +6,7 @@
 
 Small, router-agnostic back-navigation helpers for Flutter apps.
 
-`safe_back_navigation_wrapper` is a focused extraction from Hopen's Flutter client. It keeps the useful part of the original component: safe handling of blocked back events and optional fallback navigation, without coupling the package to `go_router` or app-specific routes.
+`safe_back_navigation_wrapper` is a focused Flutter package for safe back-navigation handling. It keeps the useful part of the original component: safe handling of blocked back events and optional fallback navigation, without coupling the package to `go_router` or app-specific routes.
 
 ## What It Solves
 

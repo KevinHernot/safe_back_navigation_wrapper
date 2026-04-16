@@ -1,10 +1,10 @@
 # Extraction Notes
 
-This package was extracted from Hopen's Flutter client.
+This package began as an internal Flutter navigation helper.
 
-## Original Source
+## Original Scope
 
-- `hopen/lib/presentation/widgets/safe_back_navigation_wrapper.dart`
+- app-specific back-navigation wrapper with fallback hooks
 
 ## Extraction Goals
 
